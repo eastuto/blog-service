@@ -1,0 +1,24 @@
+{
+  "_id": "5a800d15f3df699dcc235838",
+  "title": "A great article",
+  "body": "It was the best of times, it was the blurst of times",
+  "authorId": "5a802f13f3df699dcc235ed2",
+  "datePublished" : "",
+  "category": "fiction"
+}
+{
+  "_id": "5a800d15f3df699dcc235839",
+  "title": "Another great article",
+  "body": "It was the best of times, it was the blurst of times",
+  "authorId": "5a802f13f3df699dcc235ed2",
+  "datePublished" : "",
+  "category": "fiction"
+}
+{
+  "_id": "5a800d15f3df699dcc23583a",
+"title": "And great article. The third coming",
+"body": "It was the best of times, it was the blurst of times",
+"authorId": "5a802f13f3df699dcc235ed2",
+  "datePublished" : "",
+"category": "fiction"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "article-service",
+  "version": "1.0.0",
+  "description": "Article service for Journa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Astuto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "mongoose-timestamp": "^0.6.0"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.0.4",
+    "morgan": "^1.9.0"
+  }
+}
